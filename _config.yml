@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jane Jepkemboi # your name (or website title) here
+logo:  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist
   <br><br>
-  Second description 
+  A competent data scientist with a strong math background. Ability to use data, visualisation techniques, machine learning to find data patterns that drive meaningful impact on the business.I am looking for an opportunity to build a challenging career and apply my skills in an innovative and simplified process. I enjoy working in a team and communicating data-driven results. I love learning new things and striving to be better at what I do. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jane-jepkemboi-39108a1b3/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: Data Scientist
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
